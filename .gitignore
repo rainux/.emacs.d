@@ -1,0 +1,6 @@
+*~
+*.elc
+\custom.el
+\.smex-items
+\ac-comphist.dat
+\places
